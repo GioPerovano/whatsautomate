@@ -1,4 +1,4 @@
-# Envio de mensagem automática para lista de contatos com Python 📲
+# Envio de mensagem automática para lista de contatos 📲
 
 Este script Python permite o envio automático de mensagens para uma lista de números via WhatsApp Web, utilizando as bibliotecas `pywhatkit` e `pyautogui`.
 
@@ -30,6 +30,7 @@ Antes de rodar o script, certifique-se de ter instalado:
 - O WhatsApp pode bloquear o envio de mensagens automáticas caso detecte spam.
 - O intervalo entre os envios pode ser ajustado para evitar restrições.
 - O script só funciona com o WhatsApp Web ativo.
+  
 
 ### Contribuições são bem-vindas! ✨
 
