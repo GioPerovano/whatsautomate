@@ -7,14 +7,7 @@ import re
 numeros = ["11000000000", "11000000001"]
 
 # Mensagem a ser enviada
-mensagem = """🚀 *Grupy no WhatsApp!* 🐍💬
-
-Se você respondeu ao formulário, *bem-vindo à comissão organizadora dos eventos do Grupy*! 🎉 Este grupo foi criado para alinharmos as demandas e organizarmos encontros incríveis para a comunidade Python.
-
-🔗 *Entre agora e participe!*
-https://chat.whatsapp.com/GMh2TMDHtM9ASnEn1JyUz4
-
-Vamos juntos fortalecer o Grupy! 💙💛."""
+mensagem = """Olá! Esta é uma mensagem automática via Python."""
 
 # Função para formatar os números corretamente com o código do Brasil (+55)
 def formatar_numero(numero):
